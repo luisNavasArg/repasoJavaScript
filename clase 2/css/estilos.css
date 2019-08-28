@@ -1,0 +1,14 @@
+.siz{
+	width: 85px;
+	height: 150px;
+	border-radius: 20px;
+	border: 3px solid white;
+	float: left;
+	box-sizing: border-box;
+	color:white;
+	font-size: 40px;
+}
+
+#principal{
+	width: 765px;
+}
